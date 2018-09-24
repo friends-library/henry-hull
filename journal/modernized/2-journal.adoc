@@ -4104,7 +4104,7 @@ as follows:
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === Epistle to Stanford Quarterly Meeting, written while in Ireland.
 
 [.salutation]
@@ -5947,7 +5947,7 @@ giving an account of the last hours of my beloved.^
 footnote:[See the close of the memoirs.]
 The following testimony respecting his wife will doubtless be acceptable to the reader:
 
-[.alt]
+[.blurb]
 === The Testimony of Stanford Monthly Meeting, concerning Sarah Hull.
 
 She was daughter of Edward and Phebe Hallock, of Marlborough, Ulster county,
@@ -6493,7 +6493,7 @@ so abundantly and clearly testified of in those inspired records.
 As a proof of his solicitude on this subject, the following epistle, which he addressed,
 under the constraining influence of Gospel love, to Friends of New York, may be adduced:
 
-[.alt]
+[.blurb]
 === To the Monthly Meeting of Friends in New York.
 
 Under a humbling sense of unmerited goodness, vouchsafed to me in early life,
@@ -7686,7 +7686,7 @@ being fraught with interest and instruction,
 and containing some further information respecting the illness and death of his wife,
 it is thought well to insert it--being as follows:
 
-[.alt]
+[.blurb]
 === An Address to the youth of the Society of Friends, in Great Britain and Ireland, especially those who attended the Yearly Meeting in London, in 1813.
 
 [discrete]
@@ -7727,7 +7727,7 @@ and by whom it is believed, these pages will be read with interest and instructi
 [.signed-section-context-close]
 New York, Ninth month 7th, 1812.
 
-[.alt]
+[.blurb]
 === Address, Etc.
 
 On receiving the mournful tidings from Stanford,
@@ -7950,7 +7950,7 @@ Plashet, near London, 3rd of Sixth month, 1812.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === The following narrative of the afflicting circumstances which gave rise to the preceding Address, is extracted,, with very little variation, from a letter from Ruth Hallock, to her friend Henry Hull, dated Stanford, 16th of fourth month, 1812.
 
 "`I shall now endeavor to give you the best information of which I am capable,
@@ -8183,7 +8183,7 @@ several times speaks of his valuable father,
 it is thought the reader will be interested in perusing
 the following memorial respecting this worthy man:
 
-[.alt]
+[.blurb]
 === A Memorial from the Creek Monthly Meeting, in Nine Partners, concerning our friend, Tiddeman Hull.
 
 He was born in the State of Rhode Island.
@@ -8264,7 +8264,7 @@ He departed this life, on the 28th of the ninth month, 1795, aged about sixty-tw
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === A Testimony of Stanford Monthly Meeting of Friends, concerning our deceased Friend, Henry Hull.
 
 He was born at Harrison's Purchase, State of New York, in the third month, 1765;
