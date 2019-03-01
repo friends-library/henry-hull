@@ -5927,7 +5927,7 @@ which was a solemn time;
 and however my afflictions seemed to be above the afflictions of others,
 yet I was brought into near sympathy with some present, who were under similar trials,
 and awful solemn prayer was made to the God of all comfort,
-who was graciously pleased to help our infirmities,,
+who was graciously pleased to help our infirmities,
 and enable us to cast our care upon him, in the humble confidence,
 that he will never leave nor forsake those who trust in
 him--blessed and forever adored be his holy name.
@@ -7966,7 +7966,7 @@ Plashet, near London, 3rd of Sixth month, 1812.
 '''
 
 [.blurb]
-=== The following narrative of the afflicting circumstances which gave rise to the preceding Address, is extracted,, with very little variation, from a letter from Ruth Hallock, to her friend Henry Hull, dated Stanford, 16th of fourth month, 1812.
+=== The following narrative of the afflicting circumstances which gave rise to the preceding Address, is extracted, with very little variation, from a letter from Ruth Hallock, to her friend Henry Hull, dated Stanford, 16th of fourth month, 1812.
 
 "`I shall now endeavour to give thee the best information of which I am capable,
 of a very trying visitation that seems spreading over our land,
