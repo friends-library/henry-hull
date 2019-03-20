@@ -4101,8 +4101,8 @@ where I found a comfortable respite from travelling for a few days,
 in which time I wrote a short epistle to Friends of Stanford Quarterly Meeting,
 as follows:
 
-[.asterism]
-'''
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === Epistle to Stanford Quarterly Meeting, written while in Ireland.
@@ -4213,6 +4213,8 @@ Henry Hull.
 
 [.signed-section-context-close]
 From Grange, near Charlemont, in Ireland, Third month 8th, 1811.
+
+--
 
 On second-day, the 11th of third month, I rode to Coothill, accompanied by Thomas Green,
 Jr.; and a fair being held there on the day after our arrival,
@@ -5857,6 +5859,9 @@ which had a very great effect upon the meeting,
 and it was concluded to make a minute expressive of the feelings produced,
 and of its sympathy with me, and desires for my support; it being as follows:
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Yearly Meeting of London, the 30th of Fifth month, 1812.
 
@@ -5875,8 +5880,8 @@ The clerk, in company with our Friend Stephen Grellet,
 who is also on a religious visit to this land,
 is requested to give to Henry Hull a copy of this minute.
 
-[.small-break]
-'''
+--
+//I found the first minute I mentined further down.
 
 A Friend, who knew nothing of what had transpired,
 going into the meeting while the clerk was making the minute, said he was much struck,
@@ -5946,6 +5951,9 @@ with the addition of extracts from some letters,
 giving an account of the last hours of my beloved.^
 footnote:[See the close of the memoirs.]
 The following testimony respecting his wife will doubtless be acceptable to the reader:
+
+[.embedded-content-document.testimoy]
+--
 
 [.blurb]
 === The Testimony of Stanford Monthly Meeting, concerning Sarah Hull.
@@ -6057,8 +6065,7 @@ they shall rest in their beds:`" and then in a peaceful state of mind,
 departed this life, on the 4th of the fourth month, 1812, aged about forty-eight years,
 leaving the consoling evidence, that she had gone to the abodes of rest and peace.
 
-[.asterism]
-'''
+--
 
 During my stay at Plashett,
 my mind was at times clothed with the love of my heavenly Father,
@@ -6381,8 +6388,8 @@ While at New Garden, attending the Yearly Meeting of North Carolina,
 he wrote a letter to his wife, dated eleventh month 5th, 1815,
 from which the following is taken:
 
-[.small-break]
-'''
+[.embedded-content-document.letter]
+--
 
 "`I trust the motives that led to the present separation, were purely religious,
 and I have thankfully to acknowledge,
@@ -6423,8 +6430,7 @@ and the present high prices of cotton and tobacco, elate their minds, while the 
 the sighs, and the lamentations of the bought or the sold,
 could they but be heard by feeling Christians, would make their hearts ache.`"
 
-[.small-break]
-'''
+--
 
 Soon after his return from this trying journey,
 he visited the meetings of Friends in the northern part of his native state;
@@ -6439,6 +6445,9 @@ and in 1819, the Yearly Meetings of Ohio and Baltimore.
 
 [.offset]
 In a letter written while engaged in this service, dated ninth month 10th, he says:
+
+[.embedded-content-document.letter]
+--
 
 "`I have, from early youth, loved solitude,
 and in my rambles delighted to view and contemplate the works of nature,
@@ -6457,8 +6466,7 @@ I am sure, the curiosity that prompts to idle rambling,
 was not the inducement for me to leave the tender connections of my life,
 as I prefer their society to anything else in the world.`"
 
-[.small-break]
-'''
+--
 
 From this period, until 1830,
 he was frequently engaged in visits to Friends in the State of New York and Canada;
@@ -6492,6 +6500,9 @@ of our Lord and Saviour Jesus Christ,
 so abundantly and clearly testified of in those inspired records.
 As a proof of his solicitude on this subject, the following epistle, which he addressed,
 under the constraining influence of Gospel love, to Friends of New York, may be adduced:
+
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === To the Monthly Meeting of Friends in New York.
@@ -6623,6 +6634,8 @@ Henry Hull.
 
 [.signed-section-context-close]
 Stanfordville, Eleventh month 26th, 1823.
+
+--
 
 From this time, it would appear that he kept no memorandums until the sixth month, 1826,
 when he writes as follows:
@@ -6859,6 +6872,9 @@ In the year 1830, in company with several other Friends,
 he performed a visit to Friends in the western parts of New York and in Canada,
 during which he wrote the two letters from which the following extracts are made:
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 "`Queenstown, Upper Canada, Eighth month 28th, 1830.
 
@@ -6918,8 +6934,10 @@ plain little Irish girls, who were motherless,
 and neither of them above twelve years old,
 come forward and take their seats near where we sat.`"
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 "`Farmington, Ninth month 13th, 1830.
@@ -7000,9 +7018,15 @@ Open infidelity is easier borne with, than when combined with dissimulation,
 and does less mischief; because, by the latter the simple are led astray,
 many of whom are to be pitied, and for whom I feel a tender regard.`"
 
+--
+
 [.offset]
 The following address appears to belong to this period, though it is without date,
 and may with propriety be introduced here:
+
+[.embedded-content-document.address]
+--
+//maybe this should be an epistle?
 
 You, who have kept your habitations in the Truth are near unto my best life,
 and fervent are my desires that you may be steadfast, immoveable,
@@ -7186,9 +7210,14 @@ which the apostle and servant of Jesus Christ terms vain; but try yourselves,
 prove yourselves, know you not your own selves, how that Jesus Christ is in you,
 except you be reprobates.
 
+--
+
 [.offset]
 During a visit made in the year 1832,
 to some of the meetings of Philadelphia Yearly Meeting, he writes as follows:
+
+[.embedded-content-document.epistle]
+--
 
 [.signed-section-context-open]
 "`Mansfield, Ninth month 1st, 1832.
@@ -7218,8 +7247,10 @@ King of the Jews;`' who suffered under Pontius Pilate, who rose again from the d
 and ever lives to make intercession for us,
 and who is the preserver and protector of his people.`"
 
-[.small-break]
-'''
+--
+
+[.embedded-content-document.epistle]
+--
 
 [.signed-section-context-open]
 "`Pleasant View, New Jersey, Ninth month 15th, 1832.
@@ -7254,8 +7285,7 @@ Such, relying on the honors or riches, or pleasures of the world,
 are not the babes to whom they are revealed,
 and who obtain their nourishment from the fountain of Divine consolation.`"
 
-[.small-break]
-'''
+--
 
 1832+++.+++ The 24th of eleventh month,
 accompanied by John Gurney I set out to visit Friends of Purchase Quarterly Meeting,
@@ -7686,6 +7716,9 @@ being fraught with interest and instruction,
 and containing some further information respecting the illness and death of his wife,
 it is thought well to insert it--being as follows:
 
+[.embedded-content-document.address]
+--
+
 [.blurb]
 === An Address to the youth of the Society of Friends, in Great Britain and Ireland, especially those who attended the Yearly Meeting in London, in 1813.
 
@@ -7713,6 +7746,8 @@ and afforded him so much comfort and support in his present religious engagement
 [.signed-section-context-close]
 London, 1812.
 
+--
+
 Although the following address was penned by our friend Henry Hull, while in England,
 and directed especially to the youth of Great Britain and Ireland,
 which had recently been the field of his religious labors,
@@ -7726,6 +7761,11 @@ and by whom it is believed, these pages will be read with interest and instructi
 
 [.signed-section-context-close]
 New York, Ninth month 7th, 1812.
+
+//not sure if this above should be embedded^^
+
+[.embedded-content-document.address]
+--
 
 [.blurb]
 === Address, Etc.
@@ -7947,8 +7987,10 @@ Henry Hull.
 [.signed-section-context-close]
 Plashet, near London, 3rd of Sixth month, 1812.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === The following narrative of the afflicting circumstances which gave rise to the preceding Address, is extracted, with very little variation, from a letter from Ruth Hallock, to her friend Henry Hull, dated Stanford, 16th of fourth month, 1812.
@@ -8076,10 +8118,15 @@ I was not much with him afterwards,
 being quite indisposed myself with a slight touch of the prevailing disorder; therefore,
 must leave further information, except that he died the next day.`"
 
+--
+
 [.offset]
 In addition to the foregoing narrative,
 Henry Hull has received two letters from his daughter, Dorcas Coleman,
 of which the following are extracts:
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 "`13th of Fourth month, 1812.
@@ -8097,8 +8144,10 @@ and be favored to return to us again--it would have
 been consoling to her to live till that event,
 but she was resigned.`"
 
-[.small-break]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 "`Fourth month 24th, 1812.
@@ -8117,8 +8166,7 @@ as long as life and recollection are lengthened out to me, who then did, and sti
 feel the great need there is of having the mind stayed on that which will support,
 when all outward consolation fails.`"
 
-[.small-break]
-'''
+--
 
 During the last visit made by Henry Hull to Ohio,
 the Meeting for Sufferings of that Yearly Meeting directed an
@@ -8175,13 +8223,15 @@ held at Mount Pleasant, the 16th of eleventh month, 1834.
 [.signed-section-signature]
 Benjamin W. Ladd, Clerk for the day.
 
-[.asterism]
-'''
+//^^ Not sure how "minute" should be labeled. I think there was another one above, and I can't remember if I made a note about it or not. Should it be embedded? I think I embedded the other one. 
 
 As our beloved friend, in the early part of his Journal,
 several times speaks of his valuable father,
 it is thought the reader will be interested in perusing
 the following memorial respecting this worthy man:
+
+[.embedded-content-document.testimoy]
+--
 
 [.blurb]
 === A Memorial from the Creek Monthly Meeting, in Nine Partners, concerning our friend, Tiddeman Hull.
@@ -8261,8 +8311,10 @@ bearing his pains with Christian patience, and waiting for the time to come,
 that he might be relieved from them.
 He departed this life, on the 28th of the ninth month, 1795, aged about sixty-two years.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.testimony]
+--
 
 [.blurb]
 === A Testimony of Stanford Monthly Meeting of Friends, concerning our deceased Friend, Henry Hull.
@@ -8409,3 +8461,5 @@ The calm and heavenly frame of his mind, shed a sweet influence around his dying
 and rendered it a privilege to be with him at that solemn season,
 in which was amply verified the truth of the Scripture testimony,
 "`Precious in the sight of the Lord is the death of his saints.`"
+
+--
