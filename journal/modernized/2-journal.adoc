@@ -5859,7 +5859,7 @@ which had a very great effect upon the meeting,
 and it was concluded to make a minute expressive of the feelings produced,
 and of its sympathy with me, and desires for my support; it being as follows:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.minute]
 --
 
 [.signed-section-context-open]
@@ -5881,7 +5881,6 @@ who is also on a religious visit to this land,
 is requested to give to Henry Hull a copy of this minute.
 
 --
-//I found the first minute I mentined further down.
 
 A Friend, who knew nothing of what had transpired,
 going into the meeting while the clerk was making the minute, said he was much struck,
@@ -7024,9 +7023,8 @@ many of whom are to be pitied, and for whom I feel a tender regard.`"
 The following address appears to belong to this period, though it is without date,
 and may with propriety be introduced here:
 
-[.embedded-content-document.address]
+[.embedded-content-document.epistle]
 --
-//maybe this should be an epistle?
 
 You, who have kept your habitations in the Truth are near unto my best life,
 and fervent are my desires that you may be steadfast, immoveable,
@@ -7748,6 +7746,9 @@ London, 1812.
 
 --
 
+[.embedded-content-document.]
+--
+
 Although the following address was penned by our friend Henry Hull, while in England,
 and directed especially to the youth of Great Britain and Ireland,
 which had recently been the field of his religious labors,
@@ -7762,7 +7763,7 @@ and by whom it is believed, these pages will be read with interest and instructi
 [.signed-section-context-close]
 New York, Ninth month 7th, 1812.
 
-//not sure if this above should be embedded^^
+--
 
 [.embedded-content-document.address]
 --
@@ -8174,6 +8175,9 @@ edition of the foregoing Address to be published;
 and as it did not appear until after his decease,
 that meeting appended to it the following minute:
 
+[.embedded-content-document.minute]
+--
+
 Soon after this meeting directed the reprinting of the foregoing Address,
 it pleased Divine Providence to remove the author of it from works to rewards.
 And as our late Yearly Meeting had the privilege of his last religious labors,
@@ -8223,7 +8227,7 @@ held at Mount Pleasant, the 16th of eleventh month, 1834.
 [.signed-section-signature]
 Benjamin W. Ladd, Clerk for the day.
 
-//^^ Not sure how "minute" should be labeled. I think there was another one above, and I can't remember if I made a note about it or not. Should it be embedded? I think I embedded the other one. 
+--
 
 As our beloved friend, in the early part of his Journal,
 several times speaks of his valuable father,

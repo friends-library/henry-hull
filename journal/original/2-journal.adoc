@@ -5872,7 +5872,7 @@ which had a very great effect upon the meeting,
 and it was concluded to make a minute expressive of the feelings produced,
 and of its sympathy with me, and desires for my support; it being as follows, viz:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.minute]
 --
 
 [.signed-section-context-open]
@@ -7037,7 +7037,7 @@ many of whom are to be pitied, and for whom I feel a tender regard.`"
 The following address appears to belong to this period, though it is without date,
 and may with propriety be introduced here:
 
-[.embedded-content-document.address]
+[.embedded-content-document.epistle]
 --
 
 You, who have kept your habitations in the Truth are near unto my best life,
@@ -7761,6 +7761,9 @@ London, 1812.
 
 --
 
+[.embedded-content-document.]
+--
+
 Although the following address was penned by our friend Henry Hull, while in England,
 and directed especially to the youth of Great Britain and Ireland,
 which had recently been the field of his religious labours,
@@ -7774,6 +7777,8 @@ and by whom it is believed, these pages will be read with interest and instructi
 
 [.signed-section-context-close]
 New York, Ninth month 7th, 1812.
+
+--
 
 [.embedded-content-document.address]
 --
@@ -8185,6 +8190,9 @@ edition of the foregoing Address to be published;
 and as it did not appear until after his decease,
 that meeting appended to it the following minute, viz:
 
+[.embedded-content-document.minute]
+--
+
 Soon after this meeting directed the reprinting of the foregoing Address,
 it pleased Divine Providence to remove the author of it from works to rewards.
 And as our late Yearly Meeting had the privilege of his last religious labours,
@@ -8234,6 +8242,8 @@ held at Mount Pleasant, the 16th of eleventh month, 1834.
 
 [.signed-section-signature]
 Benjamin W. Ladd, Clerk for the day.
+
+--
 
 As our beloved friend, in the early part of his Journal,
 several times speaks of his valuable father,
