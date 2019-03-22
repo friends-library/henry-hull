@@ -7761,7 +7761,7 @@ London, 1812.
 
 --
 
-[.embedded-content-document.]
+[.embedded-content-document]
 --
 
 Although the following address was penned by our friend Henry Hull, while in England,
