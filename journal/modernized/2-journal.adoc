@@ -6173,6 +6173,7 @@ being out of several necessary articles before we arrived at our port.
 On reaching the coast of America, we received the unpleasant tidings,
 that war had been declared against Great Britain by the United States;
 and on coming in sight of Sandy-hook light-house, we were boarded by a naval officer,
+// lint-disable modernize-words (allow "intercourse")
 who took possession of the ship as a prize, for a violation of the non-intercourse act.
 Other officers coming on board, all was confusion and hurry;
 but several of us succeeded in getting on board a pilot boat,
