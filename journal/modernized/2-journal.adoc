@@ -5951,7 +5951,7 @@ giving an account of the last hours of my beloved.^
 footnote:[See the close of the memoirs.]
 The following testimony respecting his wife will doubtless be acceptable to the reader:
 
-[.embedded-content-document.testimoy]
+[.embedded-content-document.testimony]
 --
 
 [.blurb]
@@ -8235,7 +8235,7 @@ several times speaks of his valuable father,
 it is thought the reader will be interested in perusing
 the following memorial respecting this worthy man:
 
-[.embedded-content-document.testimoy]
+[.embedded-content-document.testimony]
 --
 
 [.blurb]
