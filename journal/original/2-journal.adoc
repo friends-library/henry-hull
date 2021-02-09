@@ -5209,7 +5209,7 @@ wherein goeth no galley with oars, neither shall gallant ship pass thereby.`"
 Next day we had a meeting in the Methodist chapel,
 at the same hour at which their minister was to have preached them a sermon,
 and which he informed the people at the commencement of our
-meeting "`should be preached on the following tuesday evening.`
+meeting "`should be preached on the following tuesday evening.`"
 I soon after stood up and informed the people,
 that our views of Divine worship and of Gospel ministry,
 did not admit of our concluding beforehand, that we would preach,
@@ -7736,8 +7736,8 @@ it is thought well to insert it--being as follows, viz:
 [.blurb]
 === An Address to the youth of the Society of Friends, in Great Britain and Ireland, especially those who attended the Yearly Meeting in London, in 1813.
 
-[discrete]
-==== Advertisement.
+[.emphasized.centered]
+Advertisement.
 
 Our friend Henry Hull, who has found his mind engaged to write the following lines,
 received, near the close of the Yearly Meeting of 1812, which,
