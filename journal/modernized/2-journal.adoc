@@ -1,4 +1,4 @@
-[#journal, short="Journal of Henry Hull"]
+[short="Journal of Henry Hull"]
 == Memoirs of the Life and Religious Labors of Henry Hull.
 
 I have from my early youth derived satisfaction from
