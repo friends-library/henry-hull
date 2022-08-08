@@ -41,7 +41,7 @@ of the Purchase--all of whom were respectable
 members of the religious Society of Friends.
 
 My paternal grandfather followed the business of a sea-captain, for a livelihood,
-as did also his father, who had the training of Charles Wager, afterward.
+as did also his father, who had the training of Charles Wager, afterward,
 Sir Charles Wager, Vice Admiral in the British navy,
 who always retained an affectionate regard for his former master,
 offering to promote any of his children who would enter the king`'s service;
@@ -2052,7 +2052,7 @@ bid me be faithful; observing, that "`I was rightly led,
 for the wild boar of the forest had made ravages in that place,
 and had set ministers and elders at variance, much to the grief of Friends.`"
 
-The meeting at Weslgrove was a trying one,
+The meeting at Westgrove was a trying one,
 in consequence of the close labor that fell to my lot; and after it was over,
 I mourned my situation,
 yet prayed for resignation to whatever service might be assigned me.
@@ -2178,7 +2178,7 @@ and then proceeded to Fairfax.
 Seventh month, 12th. Reflecting pensively upon my present situation,
 far from home and from my dear family,
 I penned the following petition:--"`O Lord! you have been with me hitherto,
-and by your powder I have been preserved in a good degree of resignation to your will.
+and by your power I have been preserved in a good degree of resignation to your will.
 Continue to afford me your counsel, and I will endeavor to obey you; send me wherever,
 or to whomsoever, you see fit.
 You have separated me from my dear friends and tender connections,
@@ -3115,7 +3115,10 @@ and likewise attended most of the meetings in Purchase Quarterly Meeting,
 and had a number of favored meetings about home,
 and was permitted to enjoy much comfort at home and in my domestic engagements.
 
-For some years after his return from this long and arduous journey,
+[.asterism]
+'''
+
++++[+++For some years after his return from this long and arduous journey,
 it does not appear that our dear friend kept any memorandums; he was, however,
 industriously engaged in the service of his Lord and Master,
 travelling in the exercise of his gift as a minister of
@@ -3140,7 +3143,10 @@ and the Yearly Meeting of ministers and elders having
 also furnished him with the requisite credentials,
 he embarked for Liverpool in the sixth month of that year.
 While laboring under the prospect of leaving his beloved home and relations,
-to fulfill this engagement of duty, he penned the following remarks:
+to fulfill this engagement of duty, he penned the following remarks:+++]+++
+
+[.small-break]
+'''
 
 2nd day of second month, 1810.
 In retirement and under a solemn impression of mind,
