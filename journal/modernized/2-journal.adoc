@@ -6193,7 +6193,7 @@ was pleasant; but the thought of returning to my bereaved habitation was painful
 [.asterism]
 '''
 
-On his return from Europe he delivered up his certificates to
++++[+++On his return from Europe he delivered up his certificates to
 the meetings from which he had obtained them,
 and gave some account of his travels and religious labors,
 producing testimonials from the Yearly Meetings held in London and Dublin,
@@ -6207,7 +6207,7 @@ which service he performed to the peace and satisfaction of his own mind,
 and the comfort of Friends among whom he labored.
 
 [.offset]
-The next memorandums which I find are the following:
+The next memorandums which I find are the following:+++]+++
 
 1813, first month 1st. Contemplating on the events of the last year,
 and my lonesome situation, I felt desirous to resume my diary,
