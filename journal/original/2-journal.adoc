@@ -6393,7 +6393,7 @@ where I spent some time agreeably with dear George Dillwyn.
 [.asterism]
 '''
 
-It does not appear that Henry Hull kept any further account of this journey;
++++[+++It does not appear that Henry Hull kept any further account of this journey;
 he visited the city of Philadelphia and some meetings in its vicinity,
 and attended the Yearly Meeting of Philadelphia in the fourth month, 1814.
 In the ninth month of the same year, he was married to Sarah Cooper, of Newtown,
@@ -6406,7 +6406,7 @@ and a considerable number of the meetings composing them.
 
 While at New Garden, attending the Yearly Meeting of North Carolina,
 he wrote a letter to his wife, dated eleventh month 5th, 1815,
-from which the following is taken, viz:
+from which the following is taken, viz:+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -6452,7 +6452,7 @@ could they but be heard by feeling Christians, would make their hearts ache.`"
 
 --
 
-Soon after his return from this trying journey,
++++[+++Soon after his return from this trying journey,
 he visited the meetings of Friends in the northern part of his native state;
 and in the year 1817, attended the Yearly Meeting of Philadelphia,
 and some of the meetings within its limits.
@@ -6464,7 +6464,7 @@ In 1818, he again visited several of the Quarterly Meetings of his own Yearly Me
 and in 1819, the Yearly Meetings of Ohio and Baltimore.
 
 [.offset]
-In a letter written while engaged in this service, dated ninth month 10th, he says:
+In a letter written while engaged in this service, dated ninth month 10th, he says:+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -6488,7 +6488,7 @@ as I prefer their society to any thing else in the world.`"
 
 --
 
-From this period, until 1830,
++++[+++From this period, until 1830,
 he was frequently engaged in visits to Friends in the State of New York and Canada;
 and also visited the Yearly Meetings of Rhode Island and Philadelphia.
 
@@ -6520,7 +6520,7 @@ of our Lord and Saviour Jesus Christ,
 so abundantly and clearly testified of in those inspired records.
 As a proof of his solicitude on this subject, the following epistle, which he addressed,
 under the constraining influence of Gospel love, to Friends of New York, may be adduced,
-viz:
+viz:+++]+++
 
 [.embedded-content-document.epistle]
 --
@@ -6658,8 +6658,8 @@ Stanfordville, Eleventh month 26th, 1823.
 
 --
 
-From this time, it would appear that he kept no memorandums until the sixth month, 1826,
-when he writes as follows, viz:
++++[+++From this time, it would appear that he kept no memorandums until the sixth month, 1826,
+when he writes as follows, viz:+++]+++
 
 Looking over my memorandums,
 I do not find any account of several extensive journeys in the service of Truth,
@@ -6888,9 +6888,12 @@ or we would go on with ours, if they would sit without interrupting us;
 they acceded to the latter,
 and we accordingly transacted our business and withdrew quietly.
 
-In the year 1830, in company with several other Friends,
+[.small-break]
+'''
+
++++[+++In the year 1830, in company with several other Friends,
 he performed a visit to Friends in the western parts of New York and in Canada,
-during which he wrote the two letters from which the following extracts are made, viz:
+during which he wrote the two letters from which the following extracts are made, viz:+++]+++
 
 [.embedded-content-document.letter]
 --
@@ -7041,8 +7044,8 @@ many of whom are to be pitied, and for whom I feel a tender regard.`"
 --
 
 [.offset]
-The following address appears to belong to this period, though it is without date,
-and may with propriety be introduced here:
++++[+++The following address appears to belong to this period, though it is without date,
+and may with propriety be introduced here:+++]+++
 
 [.embedded-content-document.epistle]
 --
@@ -7232,9 +7235,8 @@ except ye be reprobates.
 
 --
 
-Coggeshall
-During a visit made in the year 1832,
-to some of the meetings of Philadelphia Yearly Meeting, he writes as follows, viz:
++++[+++During a visit made in the year 1832,
+to some of the meetings of Philadelphia Yearly Meeting, he writes as follows, viz:+++]+++
 
 [.embedded-content-document.epistle]
 --
@@ -7422,7 +7424,8 @@ The Lord hath no pleasure in the death of him that dieth,
 and in great mercy he is pleased to offer life and salvation,
 even unto those who are treading the paths which lead down to the chambers of death.
 
-After speaking of attending another meeting, he says:
+[.offset]
++++[+++After speaking of attending another meeting, he says:+++]+++
 
 It was not so satisfactory as I could have desired, through the efforts of some,
 who were zealous to press their own views beyond the true unity,
@@ -7494,6 +7497,10 @@ and to support their meetings, whilst numbers of their former friends and associ
 who had separated from Society, regardless of justice,
 were occupying their meetinghouses.
 
+[.small-break]
+'''
+
+[.offset]
 Of this journey he has left no further account.
 
 The diligence and zeal with which our beloved friend
