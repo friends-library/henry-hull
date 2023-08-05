@@ -1862,7 +1862,7 @@ pointed to such services, either at home or at a distance from it.
 With the approbation of my friends,
 I frequently appointed meetings in the afternoon
 of first-day at neighboring meetinghouses,
-school-houses and private dwellings; these meetings were generally large,
+schoolhouses and private dwellings; these meetings were generally large,
 and through the Lord`'s blessing on the labor,
 some were constrained to join in membership.
 Unto Him who gives the increase is all praise due!
@@ -3303,7 +3303,7 @@ we could not tell where we were by any observation of the land.
 Happily, we met a vessel just as we got up to Holyhead,
 by which we learned that we must steer east to make it, which we accordingly did,
 and in a few minutes saw the point, and keeping close in shore,
-we came abreast of the Skerries light-house about seven o`'clock.
+we came abreast of the Skerries lighthouse about seven o`'clock.
 It is scarcely possible for a person who has not been
 confined to the sight of water only during a sea voyage,
 to conceive how pleasing the view of land is.
@@ -3314,7 +3314,7 @@ yet the state of the weather, and the approach of night, made us apprehensive of
 both from the coast and the numerous vessels in the channel.
 We were obliged to lie on and off during the night, as no pilot had hailed us,
 and we could not proceed without one.
-Our captain intends to keep the light-houses of Holyhead and the Skerries in view;
+Our captain intends to keep the lighthouses of Holyhead and the Skerries in view;
 and as the nights are short, and our ship made very snug,
 with closely reefed top-sails and jib only, we hope to ride safely.
 How changeable are all human things!
@@ -5084,7 +5084,7 @@ and it was then a large meeting, while that at Kendal was small.
 Now, many Friends reside at Kendal,
 and but few here--though some revival has of late taken place.
 The meetinghouse, which is situated in a dreary place,
-was formerly occupied by Jonah Thompson, as a school-house;
+was formerly occupied by Jonah Thompson, as a schoolhouse;
 and here the late Samuel Fothergill and his brother, doctor John Fothergill,
 with several other eminent Friends, received part of their education.
 In the evening we returned to Kendal, and next morning proceeded to Preston Patrick,
@@ -6179,7 +6179,7 @@ we were apprehensive of being put on short allowance,
 being out of several necessary articles before we arrived at our port.
 On reaching the coast of America, we received the unpleasant tidings,
 that war had been declared against Great Britain by the United States;
-and on coming in sight of Sandy-hook light-house, we were boarded by a naval officer,
+and on coming in sight of Sandy-hook lighthouse, we were boarded by a naval officer,
 // lint-disable modernize-words (allow "intercourse")
 who took possession of the ship as a prize, for a violation of the non-intercourse act.
 Other officers coming on board, all was confusion and hurry;
